@@ -25,3 +25,12 @@ Este projeto foi desenvolvido para exibir análises de corridas da fórmula 1, p
 Este projeto foi desenvolvido para exibir análises a respeito do portfólio de títulos da Netflix, as análises presentes nesse Dashboard cobrem todo o segmento de títulos, é um projeto bem interessante com uma base de dados bem completa.
 
 <a href="https://github.com/RastaDados/Projeto_Netflix"> Acesse aqui </a>
+
+<hr>
+<br>
+
+<h2>Projeto Atendimento Laboratorial</h2>
+
+Este projeto foi desenvolvido para exibir análises a respeito de exames laboratoriais cardiovasculares, as análises presentes nesse Dashboard vão desde análises financeiras até análises de quantidade de atendimentos por horário, é um Dashboard voltado á anàlise de Desempenho de Atendimento.
+
+<a href="https://github.com/RastaDados/Atendimento_Laboratorial"> Acesse aqui </a>
