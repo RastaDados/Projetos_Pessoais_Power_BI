@@ -34,3 +34,12 @@ Este projeto foi desenvolvido para exibir análises a respeito do portfólio de 
 Este projeto foi desenvolvido para exibir análises a respeito de exames laboratoriais cardiovasculares, as análises presentes nesse Dashboard vão desde análises financeiras até análises de quantidade de atendimentos por horário, é um Dashboard voltado á anàlise de Desempenho de Atendimento.
 
 <a href="https://github.com/RastaDados/Atendimento_Laboratorial"> Acesse aqui </a>
+
+<hr>
+<br>
+
+<h2>Projeto Competitivo de League of Legends</h2>
+
+Este projeto foi desenvolvido para extrair insights valiosos sobre o competitivo de League of Legends, afim de auxiliar apostadores a tomarem uma melhor decisão baseado em dados reais.
+
+<a> Acesse aqui, falta o link</a>
