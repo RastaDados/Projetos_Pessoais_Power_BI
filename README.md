@@ -42,4 +42,4 @@ Este projeto foi desenvolvido para exibir análises a respeito de exames laborat
 
 Este projeto foi desenvolvido para extrair insights valiosos sobre o competitivo de League of Legends, afim de auxiliar apostadores a tomarem uma melhor decisão baseado em dados reais.
 
-<a> Acesse aqui, falta o link</a>
+<a href="https://github.com/RastaDados/Projeto-League-of-Legends/tree/main"> Acesse aqui </a>
