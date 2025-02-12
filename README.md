@@ -42,4 +42,13 @@ Este projeto foi desenvolvido para exibir análises a respeito de exames laborat
 
 Este projeto foi desenvolvido para extrair insights valiosos sobre o competitivo de League of Legends, afim de auxiliar apostadores a tomarem uma melhor decisão baseado em dados reais.
 
-<a href="https://github.com/RastaDados/Projeto-League-of-Legends/tree/main"> Acesse aqui </a>
+<a href="https://github.com/RastaDados/Projeto-League-of-Legends"> Acesse aqui </a>
+
+<hr>
+<br>
+
+<h2>Projeto Missões Espaciais</h2>
+
+Este projeto foi desenvolvido para analisar detalhadamente missões espaciais furutas, começando do ano de 2025 até o ano de 2034.
+
+<a href="https://github.com/RastaDados/Miss-es-Espaciais"> Acesse aqui </a>
